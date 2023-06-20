@@ -32,6 +32,7 @@ I have prior 💼 sales and 🤝 customer care experience.
 ## Data Science Projects
 
 [**Building personalized chatbots using OpenAI, LangChain and Qdrant [PL only]**](https://github.com/doneczka/chat_langchain)
+
 I present how to create your own generative AI using the LangChain framework and Python. Even if you have never played with LangChain or other generative AIs before, by following the checklist prepared by me, you will achieve success. I will show you how to build something like this from scratch, how to improve the quality of the results, and everything will be based on a specific example - an assistant for PyData conferences in different countries. So far project is only in Polish language. English version will be available soon.
 
 [**Exploratory Data Analysis of Fatal Shootings in the US**](https://github.com/doneczka/EDA_fatal_shootings)
