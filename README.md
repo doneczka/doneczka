@@ -6,7 +6,7 @@ I have over a year of hands-on experience performing 🐍 Python-based explorato
 
 I actively support my company ML team in conducting 🔎 research and running experiments. 
 
-I am passionate about 📊 XAI methodologies.
+Currently working on building personalized chatbots 🤖💬 using LangChain 🦜.
 
 I have prior 💼 sales and 🤝 customer care experience. 
 
@@ -15,9 +15,9 @@ I have prior 💼 sales and 🤝 customer care experience.
 
 💻 **Data Processing and Analytics**: Python, Jupyter, VSC
 
-📉 **Data Visualization**: Seaborn, Matplotlib, Plotly
+📉 **Data Visualization**: Seaborn, Matplotlib, Plotly, Tableau
 
-📚 **Libraries**: scikit-learn, category-encoder, feature-engine, shap, nltk
+📚 **Libraries**: scikit-learn, category-encoder, feature-engine, shap, nltk, langchain
 
 🖥 **Machine Learning Modeling**: Classification, Regression, Clusterization 
 
@@ -30,6 +30,9 @@ I have prior 💼 sales and 🤝 customer care experience.
 ☁ **Cloud**: Microsoft Azure Cognitive Service, Microsoft Azure AutoML, GCP
 
 ## Data Science Projects
+
+[**Building personalized chatbots using OpenAI, LangChain and Qdrant [PL only]**](https://github.com/doneczka/chat_langchain)
+I present how to create your own generative AI using the LangChain framework and Python. Even if you have never played with LangChain or other generative AIs before, by following the checklist prepared by me, you will achieve success. I will show you how to build something like this from scratch, how to improve the quality of the results, and everything will be based on a specific example - an assistant for PyData conferences in different countries. So far project is only in Polish language. English version will be available soon.
 
 [**Exploratory Data Analysis of Fatal Shootings in the US**](https://github.com/doneczka/EDA_fatal_shootings)
 
