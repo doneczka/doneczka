@@ -1,56 +1,63 @@
 ### Hi there 👋 
 
-Welcome to my profile! I'm Dominika Szulc from Poland 🇵🇱 .
+I'm Dominika from Poland 🇵🇱 .
 
-I have over a year of hands-on experience performing 🐍 Python-based exploratory data analysis and modeling projects 📈. 
+ML Engineer based in Poland, specialising in LLM systems and applied GenAI.                                          
+I build production-grade pipelines — from RAG architectures and prompt/context engineering                                   
+to end-to-end system development, observability, and deployment.
+                                                                                                                     
+Working in ML since 2022, currently focused on applied AI research with
+practical delivery obligations.
 
-I actively support my company ML team in conducting 🔎 research and running experiments. 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dominika_Szulc-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominika-szulc/)
 
-Currently working on building personalized chatbots 🤖💬 using LangChain 🦜.
+---
 
-I have prior 💼 sales and 🤝 customer care experience. 
+## What I'm working on
 
+- **LLM pipelines** — classification and semantic assignment using LangChain
+- **RAG systems** — retrieval-augmented generation for knowledge-intensive applications
+- **LLM observability** — experiment tracking with LangSmith and persistent trace logging
+- **Applied research** — full ML lifecycle from prototyping to formal reporting
 
-## Analytics Tools
+---
 
-💻 **Data Processing and Analytics**: Python, Jupyter, VSC
+## Tech stack
 
-📉 **Data Visualization**: Seaborn, Matplotlib, Plotly, Tableau
+**LLM & GenAI** `LangChain` `LangSmith` `Gemini` `OpenAI` `Qdrant` `RAG`
 
-📚 **Libraries**: scikit-learn, category-encoder, feature-engine, shap, nltk, langchain
+**ML & Data** `scikit-learn` `XGBoost` `CatBoost` `SHAP` `NLTK` `Pandas`
 
-🖥 **Machine Learning Modeling**: Classification, Regression, Clusterization 
+**Development** `Python` `FastAPI` `Docker` `Git` `Streamlit` `Jupyter`
 
-💾 **Data Collection and Storage**: MySQL, SQLite
+**Cloud & Databases** `GCP` `Azure` `MySQL` `SQLite`
 
-🐋 **Development**: Git, Docker
+**Visualisation** `Seaborn` `Matplotlib` `Plotly` `Tableau`
 
-👩‍✈️ **Machine Learning Deployment**: Streamlit, FastAPI
-
-☁ **Cloud**: Microsoft Azure Cognitive Service, Microsoft Azure AutoML, GCP
+---
 
 ## Data Science Projects
 
 [**Building personalized chatbots using OpenAI, LangChain and Qdrant [PL only]**](https://github.com/doneczka/chat_langchain)
 
-I present how to create your own generative AI using the LangChain framework and Python. Even if you have never played with LangChain or other generative AIs before, by following the checklist prepared by me, you will achieve success. I will show you how to build something like this from scratch, how to improve the quality of the results, and everything will be based on a specific example - an assistant for PyData conferences in different countries. So far project is only in Polish language. English version will be available soon.
+GenAI assistant with retrieval augmentation — conference knowledge bot for PyData | OpenAI · LangChain · Qdrant
 
 [**Exploratory Data Analysis of Fatal Shootings in the US**](https://github.com/doneczka/EDA_fatal_shootings)
 
-This project explores fatal shootings in the United States using data from the Washington Post. Through exploratory data analysis and clustering, I identified patterns and trends in the data, including the demographic profile of victims and the geographic distribution of incidents. My findings provide insight into the nature of fatal shootings in the US and can help inform discussions around gun violence and public safety.
+Demographic and geographic pattern analysis | Python · Seaborn 
 
 [**Exploratory Data Analysis of IT professionals' Mental Health**](https://github.com/doneczka/EDA_mental_health)
 
-This project explores the topic of mental health among IT professionals, with a focus on how companies in the industry approach the issue. Using SQL queries to analyze survey data from IT workers, I identified patterns and trends in the data, including the demographic profile of workers who struggle with mental health and the types of resources and support that are most common in addressing the issue. My findings provide insights into the mental health challenges faced by IT professionals and can help inform efforts to improve workplace well-being in the industry.
+SQL-driven analysis of mental health support in tech workplaces | SQL · Python 
 
 [**Prediction of Travel Insurance Selling**](https://github.com/doneczka/travel_insurance_prediction)
 
-This project uses data from an insurance company to predict whether a customer will buy travel insurance or not. I experimented with a variety of machine learning models, including logistic regression, support vector machines, decision trees, and random forests, and performed hyperparameter tuning to improve their performance. Our best performing models achieved an accuracy of 75% for SVM and 78.5% for decision trees. Through our analysis, I also identified key factors that influence a customer's decision to buy insurance, including age or number of family members. My findings can be used to improve the effectiveness of insurance marketing strategies and better serve the needs of customers.
+ Multi-model comparison study (78.5% accuracy) | scikit-learn |
 
 [**Prediction of Getting a Stroke**](https://github.com/doneczka/stroke_prediction)
 
-This project focuses on predicting the likelihood of stroke based on various patient characteristics. The dataset used for the analysis was highly imbalanced, so I experimented with several techniques to address this issue, including oversampling and undersampling. I also tested a variety of machine learning models, including logistic regression, decision trees, and XGBoost and CatBoost. Through my analysis, I identified several key factors that contribute to stroke risk, including age, average glucose level, and marital status. My findings can be used to improve the accuracy of stroke prediction models and to identify high-risk patients for targeted interventions and preventive measures.
+Imbalanced dataset classification with ensemble methods | XGBoost · CatBoost 
 
 [**Prediction of Problematic Loan**](https://github.com/doneczka/problematic_loan_prediction)
 
-This project uses data from Home Credit Group to predict whether a borrower is likely to pay back a loan or default on it. The dataset was highly imbalanced, so I used various techniques to address this issue. I also incorporated external data to improve the accuracy of my models. After testing multiple machine learning models, I chose the best performing one and deployed it using FastAPI and GCP. My model can be used to identify high-risk borrowers and improve lending practices to minimize default rates.
+Credit risk classifier deployed as a production API | FastAPI · XGBoost · GCP 
